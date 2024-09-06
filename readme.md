@@ -5,6 +5,10 @@ View Sales/Costs/Profit
 ![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_four/blob/master/project_01.jpg?raw=true)
 
 
+View Sales by Category
+
+![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_four/blob/master/project_02.jpg?raw=true)
+
 The github control version is used to follow any changes.
 
 Project in Development.
