@@ -1,0 +1,503 @@
+customer_id;customer_name;country;continent
+EX0000001;RINCO;Czech Republic;Europe
+EX0000002;FSB;Italy;Europe
+EX0000005;FIKS;Netherlands;Europe
+EX0000008;ANSEN;France;Europe
+EX0000009;R&B;Germany;Europe
+EX0000011;ASSANI;Italy;Europe
+EX0000012;OBAIN;Italy;Europe
+EX0000014;ORINA;Italy;Europe
+EX0000016;APORUSA;Italy;Europe
+EX0000017;AFAR;Hungary;Europe
+EX0000018;HUNTOR;Spain;Europe
+EX0000020;AMMER;Hungary;Europe
+EX0000022;AFIDIS;Greece;Europe
+EX0000023;MIX;Hungary;Europe
+EX0000025;NEN;Finland;Europe
+EX0000026;KER;Hungary;Europe
+EX0000027;M&F;Germany;Europe
+EX0000029;ILER;Sweden;Europe
+EX0000030;FCT;United Arab Emirates;Asia
+EX0000031;VAL;Czech Republic;Europe
+EX0000032;FSB;Germany;Europe
+EX0000035;MDP;Hungary;Europe
+EX0000036;STALL;United States;North America
+EX0000037;TERM;Moldova, Republic of;Europe
+EX0000038;MSON;Finland;Europe
+EX0000044;LAINA;Lithuania;Europe
+EX0000045;ERKAXC;Colombia;South America
+EX0000047;REG;Russian Federation;Europe
+EX0000049;AC;Thailand;Asia
+EX0000053;CYV;Spain;Europe
+EX0000054;OSTA;Latvia;Europe
+EX0000055;ROUK;Egypt;Africa
+EX0000056;EAS;Spain;Europe
+EX0000057;EAM;South Africa;Africa
+EX0000059;KPSR;Belarus;Europe
+EX0000060;IVR;Italy;Europe
+EX0000062;ONME;Italy;Europe
+EX0000064;SPAY;Armenia;Asia
+EX0000066;EVEAL;Spain;Europe
+EX0000069;VAX;Bulgaria;Europe
+EX0000071;CZAP;Belarus;Europe
+EX0000073;FILTER;Estonia;Europe
+EX0000074;CIS;Germany;Europe
+EX0000075;ISA;Chile;South America
+EX0000076;HORN;Austria;Europe
+EX0000077;POWER;Czech Republic;Europe
+EX0000081;LINGRIE;Finland;Europe
+EX0000089;VYTEC;Russian Federation;Europe
+EX0000090;MASTER;Thailand;Asia
+EX0000093;KONSA;Lithuania;Europe
+EX0000095;MARIN;China;Asia
+EX0000096;NITOM;Bangladesh;Asia
+EX0000099;ATON;South Africa;Africa
+EX0000101;EEBON;China;Asia
+EX00001026;LEKAN;Greece;Europe
+EX0000103;ISTAL;Lithuania;Europe
+EX0000105;ALDA;Russian Federation;Europe
+EX0000106;NITOM;Bangladesh;Asia
+EX0000108;RAMO;Egypt;Africa
+EX0000109;MOR;Finland;Europe
+EX0000110;GER;Germany;Europe
+EX0000111;AHF;Singapore;Asia
+EX0000113;TRAN;Netherlands;Europe
+EX0000114;BALT;Latvia;Europe
+EX0000115;ALVES;Sweden;Europe
+EX0000118;EVAL;Spain;Europe
+EX0000120;AMA;;North America
+EX0000121;IPER;Armenia;Asia
+EX0000123;FLINGER;Austria;Europe
+EX0000124;ESON;Sweden;Europe
+EX0000125;STRONE;Bulgaria;Europe
+EX0000132;NETA;Ukraine;Europe
+EX0000133;AEC;Germany;Europe
+EX0000134;HLINGER;Italy;Europe
+EX0000136;ARMAALA;Ukraine;Europe
+EX0000137;WARE;Austria;Europe
+EX0000138;HALD;Romania;Europe
+EX0000141;NPED;Czech Republic;Europe
+EX0000142;ARMA;Sweden;Europe
+EX0000143;MASH;Russian Federation;Europe
+EX0000145;BETEM;Belarus;Europe
+EX0000146;ANNES;Romania;Europe
+EX0000147;SENKO;Lithuania;Europe
+EX0000157;BIPAS;Bosnia and Herzegovina;Europe
+EX0000162;WTT;Finland;Europe
+EX0000163;DLUJ;Finland;Europe
+EX0000168;STAS;France;Europe
+EX0000169;TECH;Ukraine;Europe
+EX0000171;MENKS;Lithuania;Europe
+EX0000172;GYUN;Norway;Europe
+EX0000173;ARAMO;Georgia;Asia
+EX0000180;ISIS;United Kingdom;Europe
+EX0000183;ASTME;Slovakia;Europe
+EX0000185;MACASA;Spain;Europe
+EX0000186;COCKO;Norway;Europe
+EX0000190;ALMEV;Belgium;Europe
+EX0000191;TERAM;Russian Federation;Europe
+EX0000198;POLYO;Bulgaria;Europe
+EX0000199;RIKS;China;Asia
+EX0000201;BUIL;Spain;Europe
+EX0000202;MAT;Serbia;Europe
+EX0000205;KONTRAKT;Russian Federation;Europe
+EX0000206;STAR;Uzbekistan;Asia
+EX0000207;GUM;Norway;Europe
+EX0000212;ERAX;Italy;Europe
+EX0000214;ATEX;Norway;Europe
+EX0000216;SATOR;Belarus;Europe
+EX0000217;OMET;Egypt;Africa
+EX0000220;NTECH;Latvia;Europe
+EX0000223;GIE;Pakistan;Asia
+EX0000224;GAS;Spain;Europe
+EX0000226;BAUER;Austria;Europe
+EX0000228;KOMPO;Sweden;Europe
+EX0000232;FIRUR;Chile;South America
+EX0000233;VAVO;Italy;Europe
+EX0000234;FEM;Italy;Europe
+EX0000237;UNI;Malaysia;Asia
+EX0000242;AURA;Uzbekistan;Asia
+EX0000253;PIE;Germany;Europe
+EX0000258;RTK;Germany;Europe
+EX0000261;ONIE;Estonia;Europe
+EX0000263;ECONO;Finland;Europe
+EX0000268;AUG;Germany;Europe
+EX0000275;TRANSTECH;Israel;Asia
+EX0000276;EVALLO;Italy;Europe
+EX0000277;FLUD;Romania;Europe
+EX0000280;FLOWE;Italy;Europe
+EX0000282;ERGO;Belarus;Europe
+EX0000283;IKS;France;Europe
+EX0000284;MANN;Germany;Europe
+EX0000290;JOIN;Korea, Republic of;Asia
+EX0000291;INTOM;Bangladesh;Asia
+EX0000294;SROK;Latvia;Europe
+EX0000298;IVERS;Czech Republic;Europe
+EX0000301;JUL;Denmark;Europe
+EX0000305;IRAXCS;Italy;Europe
+EX0000307;ITEIN;Spain;Europe
+EX0000308;ODEC;Belgium;Europe
+EX0000312;ITALIO;Italy;Europe
+EX0000319;SERONX;Belgium;Europe
+EX0000320;LEDM;Czech Republic;Europe
+EX0000323;FORT;Macedonia, the Former Yugoslav Republic of;Europe
+EX0000324;RURY;Czech Republic;Europe
+EX0000330;PFERT;Germany;Europe
+EX0000332;FSB;Czech Republic;Europe
+EX0000335;ECHSA;Ukraine;Europe
+EX0000338;IVAl;Italy;Europe
+EX0000348;INTER;Thailand;Asia
+EX0000353;PLUST;Vietnam;Asia
+EX0000354;ELECTROGAS;Malta;Europe
+EX0000356;EING;Italy;Europe
+EX0000357;TAMAR;Slovakia;Europe
+EX0000358;SAATO;Finland;Europe
+EX0000359;YHS;Turkey;Europe
+EX0000364;ISTAV;Thailand;Asia
+EX0000366;MRC;Finland;Europe
+EX0000367;AVS;Finland;Europe
+EX0000371;ARMESAN;Slovenia;Europe
+EX0000372;IDI;Spain;Europe
+EX0000377;METAL;Slovakia;Europe
+EX0000381;JOHN;Greece;Europe
+EX0000388;BEAR;Belarus;Europe
+EX0000392;SILP;Estonia;Europe
+EX0000393;OTISH;Japan;Asia
+EX0000397;ESER;Pakistan;Asia
+EX0000399;LAH;Norway;Europe
+EX0000401;ADFA;Portugal;Europe
+EX0000402;DUID;Chile;South America
+EX0000411;METALO;Bulgaria;Europe
+EX0000416;QIKO;China;Asia
+EX0000418;ENGER;Denmark;Europe
+EX0000426;ILATEEX;Romania;Europe
+EX0000427;AVAV;Turkey;Europe
+EX0000430;PUMPSI;Ireland;Europe
+EX0000431;IKSER;United Kingdom;Europe
+EX0000432;AGEKA;Slovakia;Europe
+EX0000437;VAIS;Spain;Europe
+EX0000445;THERMO;Germany;Europe
+EX0000446;SECTO;France;Europe
+EX0000448;IMPOR;Croatia;Europe
+EX0000451;LEEHAN;United Kingdom;Europe
+EX0000455;EUROSHOP;Slovakia;Europe
+EX0000460;RAMSEZ;Switzerland;Europe
+EX0000462;PROSUPP;Bulgaria;Europe
+EX0000465;IRKS;Netherlands;Europe
+EX0000467;TURON;Brazil;South America
+EX0000471;FERAX;France;Europe
+EX0000473;HYDRO;Czech Republic;Europe
+EX0000478;THAISEEN;Germany;Europe
+EX0000480;SVP;Indonesia;Asia
+EX0000487;REA;Romania;Europe
+EX0000491;EKISA;Nigeria;Africa
+EX0000492;SAAS;Singapore;Asia
+EX0000493;FYK;Spain;Europe
+EX0000495;KROME;Germany;Europe
+EX0000497;MMMAS;Sweden;Europe
+EX0000498;AKITO;France;Europe
+EX0000500;PETE;Indonesia;Asia
+EX0000501;HIWA;Switzerland;Europe
+EX0000502;VAFREO;United Kingdom;Europe
+EX0000510;DRUS;Spain;Europe
+EX0000512;BRANDONI;Italy;Europe
+EX0000517;ARMATECONO;Norway;Europe
+EX0000528;FLUTROL;Thailand;Asia
+EX0000532;AQUATECHING;Ukraine;Europe
+EX0000539;ARMAST;Czech Republic;Europe
+EX0000543;WWM;United States;North America
+EX0000545;SOLDAS;Lithuania;Europe
+EX0000547;EUSROS;Russian Federation;Europe
+EX0000549;WOUI;Netherlands;Europe
+EX0000550;TERMODINAMIC;Romania;Europe
+EX0000552;EWRO-ARMATURA;Russian Federation;Europe
+EX0000554;TESTERVA;Germany;Europe
+EX0000555;OMVIO;Croatia;Europe
+EX0000558;VAPOROTO;Italy;Europe
+EX0000564;RVVV;United States;North America
+EX0000566;KOMCI;Serbia;Europe
+EX0000581;AMO;Belgium;Europe
+EX0000584;ROMVALVES;Romania;Europe
+EX0000585;ICON;France;Europe
+EX0000588;ELLAS;Greece;Europe
+EX0000594;XARASI;Chile;South America
+EX0000597;KONWO;Finland;Europe
+EX0000599;MSC;Russian Federation;Europe
+EX0000600;DOMINO;Serbia;Europe
+EX0000602;ECOZNO;Vietnam;Asia
+EX0000603;ONNO;Latvia;Europe
+EX0000604;PROSM;Morocco;Africa
+EX0000606;LURI;Estonia;Europe
+EX0000607;ALSO;Vietnam;Asia
+EX0000608;LERA;Slovenia;Europe
+EX0000617;ORF;Moldova, Republic of;Europe
+EX0000618;DICHY;Denmark;Europe
+EX0000619;AVV;Kazakhstan;Asia
+EX0000622;SKEES;Estonia;Europe
+EX0000624;VEZ;Belarus;Europe
+EX0000630;FLOWO;United Kingdom;Europe
+EX0000639;LPGIO;Ukraine;Europe
+EX0000641;PETRIO;Ireland;Europe
+EX0000642;GEBIO;Greece;Europe
+EX0000643;SGK;Finland;Europe
+EX0000644;TLO;Singapore;Asia
+EX0000645;ALBO;Sweden;Europe
+EX0000647;ECIOLO;Italy;Europe
+EX0000653;FLUISTAR;Italy;Europe
+EX0000658;IKSA;Slovenia;Europe
+EX0000660;JOKULATOR;Portugal;Europe
+EX0000661;ETONOA;Ukraine;Europe
+EX0000663;VELTRO;Denmark;Europe
+EX0000664;FLUXTROT;Belgium;Europe
+EX0000672;YOSHIO;Thailand;Asia
+EX0000674;INSTY;Spain;Europe
+EX0000675;DEWE;Germany;Europe
+EX0000678;STOCEP;Tunisia;Africa
+EX0000679;BRUNTO;Bulgaria;Europe
+EX0000680;IRMIO;Kazakhstan;Asia
+EX0000685;ELME;Egypt;Africa
+EX0000689;MASTERO;China;Asia
+EX0000691;FILIO;Italy;Europe
+EX0000692;FLOCOO;Denmark;Europe
+EX0000697;DONY;Iran, Islamic Republic of;Asia
+EX0000699;NAEPA;Thailand;Asia
+EX0000700;JEOLA;Russian Federation;Europe
+EX0000702;BELETO;Belarus;Europe
+EX0000703;ARMS;Ukraine;Europe
+EX0000704;TECIO;Denmark;Europe
+EX0000726;SANTECH;Russian Federation;Europe
+EX0000735;PSG;Germany;Europe
+EX0001004;HONO;Netherlands;Europe
+EX0001006;PT. ABIE PRIMA;Indonesia;Asia
+EX0001007;BABCOCK WANSON;France;Europe
+EX0001010;L-PLAN;Slovenia;Europe
+EX0001012;PT. PAMACO;Indonesia;Asia
+EX0001013;EUROVALVES;Romania;Europe
+EX0001022;TUBI VALVES;Netherlands;Europe
+EX0001023;CHAUVEC;Tunisia;Africa
+EX0001024;SHEHRI;Saudi Arabia;Asia
+EX0001032;ROSS CONTROLS;South Africa;Africa
+EX0001034;TETRA TECH;Saudi Arabia;Asia
+EX0001036;CIBIS;Lithuania;Europe
+EX0001040;ARMATURE;Slovenia;Europe
+EX0001041;DELTAFLOW ASINTSOL;Portugal;Europe
+EX0001048;FEBE Craft;Czech Republic;Europe
+EX0001049;FLUIDTECH;United Arab Emirates;Asia
+EX0001051;ALARAAF;Iraq;Asia
+EX0001056;TEC;Syrian Arab Republic;Asia
+EX0001071;HINOT;Sweden;Europe
+EX0001072;IFTG;Sweden;Europe
+EX0001073;MESSYSTECH;Romania;Europe
+EX0001077;CST;Slovakia;Europe
+EX0001080;YAKACIK;Turkey;Europe
+EX0001087;INDUCHEM GROUP;Ireland;Europe
+EX0001093;MF TRADE;Czech Republic;Europe
+EX0001099;ASTON;Italy;Europe
+EX0001106;FIMIC;France;Europe
+EX0001111;SUTEIN;Spain;Europe
+EX0001118;VALVOTUBI;Italy;Europe
+EX0001120;LECHEVALIER;France;Europe
+EX0001124;COMAR;Romania;Europe
+EX0001125;MESON;Singapore;Asia
+EX0001126;TECHPROSON;Saudi Arabia;Asia
+EX0001127;VALCONTROL;Portugal;Europe
+EX0001132;SCOGEN;India;Asia
+EX0001133;GETABEC;Thailand;Asia
+EX0001139;TLV;Australia;Australia & Ocenia
+EX0001140;FLUIDOMATIC;Italy;Europe
+EX0001141;HIDROMENTORI;Albania;Europe
+EX0001146;TECHNOFLOW;United Arab Emirates;Asia
+EX0001147;MV;Singapore;Asia
+EX0001148;EISNL;Nigeria;Africa
+EX0001152;MULTISOLUTIONS;Romania;Europe
+EX0001155;LEAXIN;China;Asia
+EX0001162;MEGA TRADING;Egypt;Africa
+EX0001170;DVC;Denmark;Europe
+EX0001173;SOFLU-TECH;France;Europe
+EX0001176;ANEMWA;France;Europe
+EX0001178;OILGEAR;France;Europe
+EX0001183;ROTORK;Norway;Europe
+EX0001196;ALFA-NISTRU;Moldova, Republic of;Europe
+EX0001202;TOMIS;Bulgaria;Europe
+EX0001203;TL EUROPE;Bulgaria;Europe
+EX0001207;IXARS;Peru;South America
+EX0001209;MIZAMI;Nigeria;Africa
+EX0001212;MECTECH;Pakistan;Asia
+EX0001214;FARRIS;United Kingdom;Europe
+EX0001216;MORAVIA;Czech Republic;Europe
+EX0001219;VALVOLA;Malaysia;Asia
+EX0001224;MYANNERGY;Myanmar;Asia
+EX0001227;VALUSA;Portugal;Europe
+EX0001228;FUAD;United Arab Emirates;Asia
+EX0001231;FTFPARTNERS;United Kingdom;Europe
+EX0001234;INNOVATIVEFZC;United Arab Emirates;Asia
+EX0001240;HISPACONTROL;Spain;Europe
+EX0001241;TITAN;United States;North America
+EX0001246;MARVAL;Italy;Europe
+EX0001249;INTOMI;Bangladesh;Asia
+EX0001255;UEVORA;Portugal;Europe
+EX0001264;ARDENT;Romania;Europe
+EX0001266;MTE;Uganda;Africa
+EX0001269;EURONICKEL;Macedonia, the Former Yugoslav Republic of;Europe
+EX0001270;BP SUPPLY;China;Asia
+EX0001272;BOILERTRONICS;Australia;Australia & Ocenia
+EX0001274;ONDA NORDIC;Finland;Europe
+EX0001279;BOUGUERINE;Algeria;Africa
+EX00012801;INTESO;Kazakhstan;Asia
+EX0001285;SCS VALVES;Malaysia;Asia
+EX0001289;KELVIN;Jordan;Asia
+EX0001293;L A BARRY;Ireland;Europe
+EX0001294;TLV;United Kingdom;Europe
+EX0001295;NOVO CHEM;Hungary;Europe
+EX0001296;DIONYX;Israel;Asia
+EX0001297;AXEL-LARSSON;Sweden;Europe
+EX0001298;IIS;United Kingdom;Europe
+EX0001300;FRESE;Denmark;Europe
+EX0001314;KLAUS UNION;Czech Republic;Europe
+EX0001315;BM ENGINEERING;United Kingdom;Europe
+EX0001316;DEKSA;Cyprus;Asia
+EX0001317;WILMAR;China;Asia
+EX0001319;VALCO;Germany;Europe
+EX000132;DFL;Italy;Europe
+EX0001320;MIRANOX;Germany;Europe
+EX0001322;BITUME;Algeria;Africa
+EX0001323;NOVAL;Germany;Europe
+EX0001325;MOTONO;Bangladesh;Asia
+EX0001327;MAXIMA;Israel;Asia
+EX0001328;STAMPA;Czech Republic;Europe
+EX0001330;INOXTRADE;Belarus;Europe
+EX0001331;PRIEMYSELNE ARMATURY;Slovakia;Europe
+EX0001334;PLASMATERM;Romania;Europe
+EX0001340;SABPPTECH;Philippines;Asia
+EX0001341;MAT;Croatia;Europe
+EX0001343;EKREG;Austria;Europe
+EX0001347;INTRAMED;Uzbekistan;Asia
+EX0001361;MIPS;Cameroon;Africa
+EX0001362;KERM PROMET;Croatia;Europe
+EX0001366;AVEMAR;Czech Republic;Europe
+EX0001374;JKOLS;Bangladesh;Asia
+EX0001377;MARINE PROCUREMENT;United Kingdom;Europe
+EX0001379;MK;Lebanon;Asia
+EX0001381;OSMI;Slovakia;Europe
+EX0001382;EMKOMETER;Czech Republic;Europe
+EX0001383;BOM;France;Europe
+EX0001386;FEBE ARMATURY;Czech Republic;Europe
+EX0001388;AGZ;Mongolia;Asia
+EX0001400;DONG ANH;Vietnam;Asia
+EX0001404;LOTCONS;Mongolia;Asia
+EX0001413;HAI LINH;Vietnam;Asia
+EX0001417;MENA WATER FZC;United Arab Emirates;Asia
+EX0001427;AL AMAL PLASTIC;Saudi Arabia;Asia
+EX0001429;BAFCON;Turkey;Europe
+EX0001442;NOVA;Austria;Europe
+EX0001449;DANCOMECH;Malaysia;Asia
+EX0001451;ALMA;Ireland;Europe
+EX0001453;RKG;Czech Republic;Europe
+EX0001454;FLAMMA TEC;Czech Republic;Europe
+EX0001455;LRI;France;Europe
+EX0001466;ENIPRO;Slovakia;Europe
+EX0001467;CITUR;Latvia;Europe
+EX0001468;BEZO;Slovakia;Europe
+EX0001469;DOUSOR;Saudi Arabia;Asia
+EX0001481;TOTALITAS;Indonesia;Asia
+EX0001486;SCOPE;Israel;Asia
+EX0001491;GENERAVAPOR;Peru;South America
+EX0001495;PROCESSTEKNIK;Sweden;Europe
+EX0001499;VYPSL;Spain;Europe
+EX0001504;HERARMAN;Turkey;Europe
+EX0001505;COMEX;Egypt;Africa
+EX0001508;SHEGE;Kazakhstan;Asia
+EX0001513;AUTHENTIC;India;Asia
+EX0001519;CPS;Turkey;Europe
+EX0001521;MENERGA;Germany;Europe
+EX0001524;PEC;Germany;Europe
+EX0001526;DNOW;Netherlands;Europe
+EX0001527;TERMOCENTER;Slovenia;Europe
+EX0001534;GASIN;Iraq;Asia
+EX0001535;TEPLOTEHNIK-NK;Kazakhstan;Asia
+EX0001542;NBB;United States;North America
+EX0001543;KSK;Kyrgyzstan;Asia
+EX0001549;SAMSON;Denmark;Europe
+EX0001554;AK TEKNIK;Turkey;Europe
+EX0001557;THERMARSENAL;Armenia;Asia
+EX0001572;ARMATEC;Denmark;Europe
+EX0001579;EUROSTEP;Russian Federation;Europe
+EX0001584;FOGTEC;Germany;Europe
+EX0001588;HEROSE;Spain;Europe
+EX0001589;VALUE;United Arab Emirates;Asia
+EX0001591;SAGA ENERGY;Romania;Europe
+EX0001603;OSVALVE;Australia;Australia & Ocenia
+EX0001608;KLOSKA MARINE;Germany;Europe
+EX0001619;BASIL FEARN;Canada;North America
+EX0001627;CERNEY;Spain;Europe
+EX0001629;HAVELI;United Arab Emirates;Asia
+EX0001636;MRO;China;Asia
+EX0011106;SARMAT;Slovakia;Europe
+EX0000174;EST;Kazakhstan;Asia
+EX0000188;TEHNOTITAN;Moldova, Republic of;Europe
+EX0000220;SANTEH;Latvia;Europe
+EX0000295;FILTER;Lithuania;Europe
+EX0000298;PASERVIS;Czech Republic;Europe
+EX0000299;ESTVALVE;Estonia;Europe
+EX0000434;STRACAU;France;Europe
+EX0000681;BASUKI;Indonesia;Asia
+EX0000725;SHUAIBA;Kuwait;Asia
+EX0001013;EURO VALVES DISTRIBUTION SRL;Romania;Europe
+EX0001026;STET;Tunisia;Africa
+EX0001031;ROWEKO;Spain;Europe
+EX0001117;THERMOQUELL;Czech Republic;Europe
+EX0001184;ECOJOULES;Kenya;Africa
+EX0001244;RECONDI;Romania;Europe
+EX0001276;ECFERAL;Algeria;Africa
+EX0001345;INDUMATIC;Bulgaria;Europe
+EX0001346;TECHPRO;Latvia;Europe
+EX0001363;FERGO;Germany;Europe
+EX0001457;PT TRIAS;Indonesia;Asia
+EX0001487;BICKO;Austria;Europe
+EX0001509;ALITALIYA;United Arab Emirates;Asia
+EX0001576;BRAY;Germany;Europe
+EX0001598;MEXICANA STEAM SOLUTIONS;Mexico;North America
+EX0001600;JOHNSON;United Kingdom;Europe
+EX0001609;I.B.C.;Czech Republic;Europe
+EX0001617;ENTHALPIC;United Arab Emirates;Asia
+EX0001621;ANDREATEK;Morocco;Africa
+EX0001641;NIDIJA;Latvia;Europe
+EX0001644;INVELT;Czech Republic;Europe
+EX0001648;ISOPOR;Switzerland;Europe
+EX0001651;SOLYRO;France;Europe
+EX0001656;PM;Germany;Europe
+EX0001659;ADDACON;Iran, Islamic Republic of;Asia
+EX0001660;ECO CHAUDIERE;Algeria;Africa
+EX0001661;ZAHRA;Malta;Europe
+EX0001663;PT MAJU;Indonesia;Asia
+EX0001664;VALVETRADE;Slovakia;Europe
+EX0001668;AI TRADE;Kyrgyzstan;Asia
+EX0001671;AKAI;Kazakhstan;Asia
+EX0001672;NEVACO;Netherlands;Europe
+EX0001698;MERECE;Netherlands;Europe
+EX0001701;TECFLOW ENERGY;Tunisia;Africa
+EX0001706;BALTIC;Finland;Europe
+EX0001713;INTEGRAPROM;Kyrgyzstan;Asia
+EX0001714;SMC FLUIDCONTROL;Italy;Europe
+EX0001717;ECOTRAGEST;Switzerland;Europe
+EX0001723;ADAC;United Arab Emirates;Asia
+EX0001748;ASI;France;Europe
+EX0001751;WOLFO;Czech Republic;Europe
+EX0001753;COGACSA;Honduras;Europe
+EX0001760;RANKIN;United States;North America
+EX0001762;BREY;United Kingdom;Europe
+EX0001765;INSTRUMENTATION ENGINEERS;Kenya;Africa
+EX0001769;INDEEL;Lithuania;Europe
+EX0001775;FRV;France;Europe
+EX0001784;NRG;United Arab Emirates;Asia
+EX0001786;PEINER SALZGITTER I;Germany;Europe
+EX0001789;LEAG I;Germany;Europe
+EX0001791;LA TECNICA;Italy;Europe
+EX0001793;EBERO -I;Germany;Europe
+EX0001802;ADVANTIV;United Kingdom;Europe
+EX0001805;SHS SAAR -I;Germany;Europe
+EX0001808;FRANCESCO;Italy;Europe
+EX001278;SYSTEMTECHNIK;Germany;Europe
+EX001280;USS;United States;North America
+EX001285;ICCO;Romania;Europe
+EX001291;PKKPS;Thailand;Asia
