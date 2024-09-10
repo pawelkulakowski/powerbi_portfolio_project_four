@@ -27,7 +27,7 @@ This report presents a Sales Breakdown by category and month, with the ability t
 
 This interactive view is vital for understanding how different product categories perform over time and identifying seasonal or cyclical patterns. The ability to focus on a particular category allows users to dive deeper into its sales trends, helping businesses optimize product strategies and allocate resources effectively based on category performance.
 
-![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_four/blob/master/project_03.jpg?raw=true)
+![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_four/blob/master/project_03.JPG?raw=true)
 
 
 ## View Growth
@@ -36,7 +36,7 @@ This report provides a Growth Analysis, where users can select a custom time per
 
 Tracking growth over specific periods is crucial for understanding business momentum. By comparing sales at the start and end of the period, users can pinpoint which categories contributed most to the change. This detailed analysis helps businesses focus on areas with high growth potential and address underperforming segments.
 
-![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_four/blob/master/project_04.jpg?raw=true)
+![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_four/blob/master/project_04.JPG?raw=true)
 
 
 TODO:
