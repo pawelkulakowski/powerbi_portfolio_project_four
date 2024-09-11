@@ -29,6 +29,7 @@ This interactive view is vital for understanding how different product categorie
 
 ![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_four/blob/master/project_04.JPG?raw=true)
 
+![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_four/blob/master/project_04b.JPG?raw=true)
 
 ## View Breakdown by Category
 
