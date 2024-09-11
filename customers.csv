@@ -22,7 +22,7 @@ EX0000031;VAL;Czech Republic;Europe
 EX0000032;FSB;Germany;Europe
 EX0000035;MDP;Hungary;Europe
 EX0000036;STALL;United States;North America
-EX0000037;TERM;Moldova, Republic of;Europe
+EX0000037;TERM;Moldova;Europe
 EX0000038;MSON;Finland;Europe
 EX0000044;LAINA;Lithuania;Europe
 EX0000045;ERKAXC;Colombia;South America
@@ -129,7 +129,7 @@ EX0000280;FLOWE;Italy;Europe
 EX0000282;ERGO;Belarus;Europe
 EX0000283;IKS;France;Europe
 EX0000284;MANN;Germany;Europe
-EX0000290;JOIN;Korea, Republic of;Asia
+EX0000290;JOIN;South Korea;Asia
 EX0000291;INTOM;Bangladesh;Asia
 EX0000294;SROK;Latvia;Europe
 EX0000298;IVERS;Czech Republic;Europe
@@ -230,7 +230,7 @@ EX0000604;PROSM;Morocco;Africa
 EX0000606;LURI;Estonia;Europe
 EX0000607;ALSO;Vietnam;Asia
 EX0000608;LERA;Slovenia;Europe
-EX0000617;ORF;Moldova, Republic of;Europe
+EX0000617;ORF;Moldova;Europe
 EX0000618;DICHY;Denmark;Europe
 EX0000619;AVV;Kazakhstan;Asia
 EX0000622;SKEES;Estonia;Europe
@@ -259,7 +259,7 @@ EX0000685;ELME;Egypt;Africa
 EX0000689;MASTERO;China;Asia
 EX0000691;FILIO;Italy;Europe
 EX0000692;FLOCOO;Denmark;Europe
-EX0000697;DONY;Iran, Islamic Republic of;Asia
+EX0000697;DONY;Iran;Asia
 EX0000699;NAEPA;Thailand;Asia
 EX0000700;JEOLA;Russian Federation;Europe
 EX0000702;BELETO;Belarus;Europe
@@ -284,7 +284,7 @@ EX0001041;DELTAFLOW ASINTSOL;Portugal;Europe
 EX0001048;FEBE Craft;Czech Republic;Europe
 EX0001049;FLUIDTECH;United Arab Emirates;Asia
 EX0001051;ALARAAF;Iraq;Asia
-EX0001056;TEC;Syrian Arab Republic;Asia
+EX0001056;TEC;Syria;Asia
 EX0001071;HINOT;Sweden;Europe
 EX0001072;IFTG;Sweden;Europe
 EX0001073;MESSYSTECH;Romania;Europe
@@ -317,7 +317,7 @@ EX0001173;SOFLU-TECH;France;Europe
 EX0001176;ANEMWA;France;Europe
 EX0001178;OILGEAR;France;Europe
 EX0001183;ROTORK;Norway;Europe
-EX0001196;ALFA-NISTRU;Moldova, Republic of;Europe
+EX0001196;ALFA-NISTRU;Moldova;Europe
 EX0001202;TOMIS;Bulgaria;Europe
 EX0001203;TL EUROPE;Bulgaria;Europe
 EX0001207;IXARS;Peru;South America
@@ -434,7 +434,7 @@ EX0001629;HAVELI;United Arab Emirates;Asia
 EX0001636;MRO;China;Asia
 EX0011106;SARMAT;Slovakia;Europe
 EX0000174;EST;Kazakhstan;Asia
-EX0000188;TEHNOTITAN;Moldova, Republic of;Europe
+EX0000188;TEHNOTITAN;Moldova;Europe
 EX0000220;SANTEH;Latvia;Europe
 EX0000295;FILTER;Lithuania;Europe
 EX0000298;PASERVIS;Czech Republic;Europe
@@ -466,7 +466,7 @@ EX0001644;INVELT;Czech Republic;Europe
 EX0001648;ISOPOR;Switzerland;Europe
 EX0001651;SOLYRO;France;Europe
 EX0001656;PM;Germany;Europe
-EX0001659;ADDACON;Iran, Islamic Republic of;Asia
+EX0001659;ADDACON;Iran;Asia
 EX0001660;ECO CHAUDIERE;Algeria;Africa
 EX0001661;ZAHRA;Malta;Europe
 EX0001663;PT MAJU;Indonesia;Asia
