@@ -1,5 +1,7 @@
 # Portfolio Project Microsoft PowerBi - Sales Figma
 
+![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_four/blob/master/promo.jpg?raw=true)
+
 Project in Development. The github control version is used to follow any changes.
 
 ![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_four/blob/master/project_00.jpg?raw=true)
